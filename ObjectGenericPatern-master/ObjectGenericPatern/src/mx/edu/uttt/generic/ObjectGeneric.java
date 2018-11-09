@@ -7,7 +7,7 @@ package mx.edu.uttt.generic;
 
 /**
  *
- * @author Erik Guerrero Bravo.   Version 1.0.0
+ * @author Cristian Alberto.   Version 1.0.0
  */
 public class ObjectGeneric {
     

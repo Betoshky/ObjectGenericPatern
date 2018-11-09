@@ -9,7 +9,7 @@ import mx.edu.uttt.view.frmLogin;
 
 /**
  *
- * @author Erik Guerrero Bravo Version 1.0.0
+ * @author Cristian Alberto.   Version 1.0.0
  */
 public class SingletonLogin {
 
